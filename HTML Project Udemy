@@ -1,0 +1,67 @@
+# HTML
+<!doctype html>
+<html>
+<head>
+    <title>My First Website</title>
+
+    <meta charset="utf-8" />
+    <meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+ <body>  
+<iframe align= "right" width="560" height="315" src="https://www.youtube.com/embed/5agil09g8jc" frameborder="0" allowfullscreen></iframe>
+ <h1><strong> Hello World! </strong></h1> 
+
+
+ <h2><strong> A Few Facts About The World we Live in </strong></h2>
+ <br/>
+ <br/>
+ <br/>
+ <br/>
+ 
+  <img src="https://mundabor.files.wordpress.com/2014/04/85250-1.jpg"  width="400"/>
+  <br/>
+  <p>Earth, also called the world and, less frequently, Gaia (and Terra in some works of 
+  science fiction is the third planet from the Sun,
+   the densest planet in the Solar System, the largest 
+   of the Solar System's four terrestrial planets, 
+   and the only astronomical object
+    known to accommodate life.  </P>
+
+<hr> </hr>
+
+<h3> <strong> About the earth </strong> </h3>
+     <ul>
+     <li> <strong> Mean density:</strong>  5.514 g/cm </li>
+     <li> <strong>Circumference:</strong> 40075.017 km/li>
+     <li> <strong>Surface area:</strong>  510072000 km2</li>
+     <li> <strong>Volume:</strong>	1.08321×1012 km </li>
+     <li> <strong>Escape velocity:</strong> 11.186 km/s</li>
+     <li> <strong>Satellite:</strong> <a href ="http://en.wikipedia.org/wiki/Natural_satellite"> The Moon </a> </li>
+     
+     </ul>
+<hr> </hr>
+<h3> <strong> Top Three Earth Facts </strong> </h3>
+     <ol>
+     <li> The earth rotation is gradually slowing</li>
+     <li> A year is not exact 365 days.</li>
+     <li> 70% of earth contains water.</li>
+     </ol>
+<hr> </hr>
+<h3> <strong> Earth's Nearest Neighbours </strong> </h3>
+     <table>
+     <tr> <th>Name</th><th>Radius </th><th>Average Temperature</th></tr>
+     <tr> <td> Mars</td><td> 3390 km</td><td> 100C</td> </tr>
+     <tr> <td> Venus</td><td> 4390 km</td> <td>460C</td></tr>
+     
+     
+     </table>
+<hr></hr>
+
+<P> Want to know more? </p>
+
+<form action="http://space-facts.com/earth/">
+<input type = "submit" value = "Click Here!" />
+</form>
+</body>    
+ </head>
+ </html>
